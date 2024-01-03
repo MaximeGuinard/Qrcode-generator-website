@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /js/*
+Disallow: /css/*
+
+Sitemap: https://qrcode.generator.maxime-guinard.fr/sitemap.xml
+
+User-agent: CCBot
+Disallow: /
